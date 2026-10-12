@@ -1,7 +1,7 @@
 
-# Fractals Generator App – Bachelor's Thesis
+# Fractals Generator – Bachelor's Thesis
 
 ## Repositories
 
-- **Frontend Application:** [MyFractalAppFrontend](https://github.com/fractals-generator-ba-thesis/MyFractalAppFrontend)
-- **Backend Application:** [myFractalAppBackEnd](https://github.com/fractals-generator-ba-thesis/myFractalAppBackEnd)
+- [Frontend Application](https://github.com/fractals-generator-ba-thesis/MyFractalAppFrontend)
+- [Backend Application](https://github.com/fractals-generator-ba-thesis/myFractalAppBackEnd)
